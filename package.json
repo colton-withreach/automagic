@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/colton-withreach/automagic/issues"
   },
-  "homepage": "https://github.com/colton-withreach/automagic#readme"
+  "homepage": "https://github.com/colton-withreach/automagic#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
